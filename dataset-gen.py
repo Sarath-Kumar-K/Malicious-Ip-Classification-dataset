@@ -73,7 +73,7 @@ def write_to_csv(data, filename):
     with open(filename, mode='a', newline='') as file:
         writer = csv.writer(file)
         if not file_exists:
-            writer.writerow(["IP Address", "Geolocation", "User Agent", "Session Duration", "Data Transfer Volume", "Packet Sizes", "Timestamp", "Error Code", "Protocol", "Label"])
+            writer.writerow(["IP Address", "Geolocation", "User Agent", "Session Duration", "Data Transfer Volume", "Packet Sizes", "Timestamp", "Error Code", "Protocol", "Is_Proxy", "Label"])
         writer.writerows(data)
 
 # Generate 25000 rows of random data

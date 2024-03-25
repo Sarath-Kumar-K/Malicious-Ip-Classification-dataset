@@ -1,4 +1,4 @@
-IP Address,Geolocation,User Agent,Session Duration,Data Transfer Volume,Packet Sizes,Timestamp,Error Code,Protocol,Label
+IP Address,Geolocation,User Agent,Session Duration,Data Transfer Volume,Packet Sizes,Timestamp,Error Code,Protocol,proxy_check,Label
 47.149.105.187,Vietnam,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",2668.853915395665,66.34364372913294,1116.4466309886552,2023-10-08 17:54:52,301,HTTP,0
 186.97.225.153,Thailand,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15",1837.0705560489107,163.71505066426326,145.4745317721244,2020-11-30 14:11:04,503,TCP,0
 155.15.215.88,Saudi Arabia,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",1276.1006869732494,112.86775903538269,1248.8641253222534,2023-07-26 08:46:45,503,HTTP,0
